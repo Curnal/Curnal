@@ -5,4 +5,6 @@
 - 🔭 I’m currently working on: Game Development, Software Development, and Development Contracts (See below to find where to reach me).
 - 📫 How to reach me:   Discord: LanguageArtsGrade#6949   ||   Email: mathuraditya777@gmail.com
 - 😄 Pronouns: He/him
--->
+
+### More Info:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Curnal&theme=dark&count_private=true&show_icons=true)
