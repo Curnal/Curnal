@@ -8,3 +8,9 @@
 
 ### More Info:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Curnal&theme=dark&count_private=true&show_icons=true)
+
+### Info About Me:
+- I am a Computer Science and Flight Student. 
+- I am currently working with Python, C++, JAVA, HTML, and C#.
+- US Marine Corps DEP 🎖
+- Cessna 172 ✈️
