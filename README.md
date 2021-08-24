@@ -12,5 +12,5 @@
 ### Info About Me:
 - I am a Computer Science and Flight Student. 
 - I am currently working with Python, C++, JAVA, HTML, and C#.
-- US Air Force DEP 🎖
+- US Air Force NG 🎖
 - Cessna 172 ✈️
