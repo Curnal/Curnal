@@ -1,7 +1,7 @@
-### I am Aditya. 👋
+### I am Adi. 👋
 
 - 🔭 I’m currently working on: Game Development, Software Development, and Development Contracts (See below to find where to reach me).
-- 📫 How to reach me: Email: mathuraditya777@gmail.com
+
   
 ### More Info:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Curnal&theme=dark&count_private=true&show_icons=true)
