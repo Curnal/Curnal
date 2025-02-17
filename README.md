@@ -1,6 +1,6 @@
 ### I am Adi. 👋
 
-- 🔭 I’m currently working on: Game Development, Software Development, and Development Contracts (See below to find where to reach me).
+- 🔭 I’m currently working on: Game Development, Software Development, and Network Engineering 
 
   
 ### More Info:
